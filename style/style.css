@@ -25,7 +25,7 @@ main {
 }
 
 section#tel {
-    background-image: url('/img/frame-iphone.png');
+    background-image: url('img/frame-iphone.png');
     background-repeat: no-repeat;
     position: absolute;
     transform: translate(-50%, -50%);
